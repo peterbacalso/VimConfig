@@ -1,4 +1,4 @@
-st nocompatible  " be iMproved, required
+set nocompatible  " be iMproved, required
 filetype off  " required
 set exrc
 
